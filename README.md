@@ -1,1 +1,5 @@
-# my-favorites
+🥘 Food
+🎼 Music
+🎮 Games
+🐋 Animals
+✈️ Travelling
