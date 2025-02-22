@@ -1,5 +1,5 @@
 🥘 Food
 🎼 Music
 🎮 Games
-🐋 Animals
+☕ Coffee
 ✈️ Travelling
